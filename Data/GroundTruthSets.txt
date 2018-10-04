@@ -1,0 +1,10 @@
+S:\Data\ATO04_P016\7-06-12\GroundTruth
+S:\Data\ATO06_P038\8-18-12\GroundTruth
+S:\Data\ATO12\CAM41985\5-04-12\GroundTruth
+S:\Data\ATO12\CAM41985\6-14-12\GroundTruth
+S:\Data\ATO13_P022\8-17-12\GroundTruth
+S:\Data\ATO13_P022\8-23-12\GroundTruth
+S:\Data\ATO14_P015\7-25-12\GroundTruth
+S:\Data\ATO14_P015\8-09-12\GroundTruth
+S:\Data\ATO18_P027\7-29-12\GroundTruth
+S:\Data\ATO19\CAM41249\6-21-12\GroundTruth
